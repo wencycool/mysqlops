@@ -1,4 +1,4 @@
-module mysqlops
+module github.com/wencycool/mysqlops
 
 go 1.12
 
