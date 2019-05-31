@@ -1,4 +1,4 @@
-module mysql
+module mysqlops
 
 go 1.12
 
